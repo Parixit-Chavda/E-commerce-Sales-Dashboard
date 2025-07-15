@@ -25,4 +25,4 @@ A dynamic Power BI dashboard showcasing revenue, profit, and quantity insights a
 💳 Payment Trends – Visual breakdown of payment modes including COD, UPI, Cards, and EMI.
 
 Screenshot:
-Show How It Looks Like : ![Dashboard Preview].(https://github.com/Parixit-Chavda/E-commerce-Sales-Dashboard/blob/main/Sales%20Dashboard.png).
+Show How It Looks Like : ![image alt].(https://github.com/Parixit-Chavda/E-commerce-Sales-Dashboard/blob/main/Sales%20Dashboard.png).
